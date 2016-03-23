@@ -1,7 +1,14 @@
-name: TnTRun
-main: TnTRun\Main
-version: 1.0.0
-api:
-- 1.13.0
-- 2.0.0
-author:EnderManiacsKingdom
+name: TNTRun
+version: 1.0
+api: 2.0.0
+main: game\tntrun\TNTRun
+author: DavidJBrockway aka MCPE_PluginDev
+description: TntRun Minigame TNT_Run Experimental build 
+commands:
+ tntrun:
+  description: "Start TntRun Minigame TNT Run Experimental Build"
+  permission: tntrun.plugin.tntrun
+permissions:
+ tntrun.plugin.tntrun:
+  description: "tntrun.plugin.tntrun"
+  default: op
