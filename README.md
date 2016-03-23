@@ -22,3 +22,5 @@ Admin/Ops Commands:
 "/tntrun cleanup"  -- command to remove entire tntrun arena 
 "/tntrun blockon"  -- command to turn on display of block locations 
 "/tntrun blockoff" -- command to turn off display of block locations 
+
+Arena build game freeze need fix
