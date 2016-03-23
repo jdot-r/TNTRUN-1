@@ -28,5 +28,5 @@ public function onLoad() {
 }
 
 public function onDisable() {
-    $this->GetLogger()->info(Color::RED."TnTRun Disabled")
+    $this->GetLogger()->info(Color::RED."TnTRun Disabled");
 }
