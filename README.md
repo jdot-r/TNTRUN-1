@@ -24,3 +24,5 @@ Admin/Ops Commands:
 "/tntrun blockoff" -- command to turn off display of block locations 
 
 Arena build game freeze need fix
+
+in v 1.2 support multilange
